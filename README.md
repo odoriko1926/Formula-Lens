@@ -12,6 +12,8 @@ A lightweight macOS menu bar app that turns formula screenshots into LaTeX and M
 - Remember your preferred window size and position.
 - Left-click the menu bar **f** to open the window; right-click for options.
 
+![Formula Lens](images/screenshots.png)
+
 ## Requirements
 
 An Apple silicon Mac running macOS 13 or later, a working and signed-in Claude Code CLI, and an internet connection. Screen Recording permission is required for screenshot capture.
