@@ -12,7 +12,7 @@ A lightweight macOS menu bar app that turns formula screenshots into LaTeX and M
 - Remember your preferred window size and position.
 - Left-click the menu bar **f** to open the window; right-click for options.
 
-![Formula Lens](images/screenshots.png)
+![Formula Lens](images/screenshot1.png)
 
 ## Requirements
 
