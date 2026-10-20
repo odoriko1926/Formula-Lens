@@ -2,6 +2,9 @@
 
 A lightweight macOS menu bar app that turns formula screenshots into LaTeX and Markdown using your local Claude Code installation.
 
+> If Claude Code is already installed and configured in your terminal, just install and open Formula Lens -- **no additional app configuration is needed**. 🌟
+
+
 <p align="center">
 <img src="images/Formula-Lens-Icon.png" alt="icon" width="157">
 </p>
